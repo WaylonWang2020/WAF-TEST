@@ -14,4 +14,4 @@
 
 * station > servergroup > server > application
 
-![Internet Alert](https://github.com/long940216/WAF-TEST/raw/internet.png Internet Alert)
+![Internet Alert](https://github.com/long940216/WAF-TEST/raw/master/internet.png Internet Alert)
