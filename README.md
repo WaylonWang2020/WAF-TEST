@@ -6,7 +6,7 @@
 
 ##### If you have good idea, please `pull requests` to me.
 
-* For local use, you need to build the PHP environment. put 'waf.php' in web root.<br>
+* For local use, you need to build the PHP environment. Then, put 'waf.php' in web root.<br>
 
   you can use this program : http://www.phpstudy.net/download.html
 
