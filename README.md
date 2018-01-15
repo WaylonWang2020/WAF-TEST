@@ -12,6 +12,6 @@
 
 * For internet use, you can use my site : http://imperva.pub/waf.php
 
-* site > server-group > server > application
+* site > server-group > service > application
 
 ![Internet Alert](https://github.com/long940216/WAF-TEST/raw/master/internet.png "Internet-Alert")
