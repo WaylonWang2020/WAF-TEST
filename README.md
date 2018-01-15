@@ -15,5 +15,3 @@
 * station > servergroup > server > application
 
 ![Internet Alert](https://github.com/long940216/WAF-TEST/raw/master/internet.png "Internet-Alert")
-
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
