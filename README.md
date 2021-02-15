@@ -8,7 +8,7 @@
 
 * For local use, you need to build the PHP environment. Then, put 'waf.php' in web root.<br>
 
-  you can use this program : http://www.phpstudy.net/download.html
+  you can use this program : https://www.xp.cn/wenda/407.html
 
 * ~~For internet use, you can use my site : http://imperva.***/waf.php~~
 
