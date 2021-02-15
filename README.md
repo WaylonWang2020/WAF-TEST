@@ -2,7 +2,7 @@
 
 ##### For Imperva Safe Engineer use.
 
-##### You can use it to check whether waf is working properly.
+##### You can use it to check whether Imperva-SecureSphere-WAF is working properly.
 
 ##### If you have good idea, please `pull requests` to me.
 
