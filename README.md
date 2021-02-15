@@ -10,8 +10,8 @@
 
   you can use this program : http://www.phpstudy.net/download.html
 
-* For internet use, you can use my site : http://imperva.pub/waf.php
+* ~~For internet use, you can use my site : http://imperva.***/waf.php~~
 
-* site > server-group > service > application
+* Site > Server-Group > Service > Application
 
 ![Internet Alert](https://github.com/long940216/WAF-TEST/raw/master/internet.png "Internet-Alert")
